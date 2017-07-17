@@ -1,0 +1,14 @@
+Package: asanatools
+Title: Tools to analyze work data from Asana
+Version: 0.0.0.9000
+Authors@R: person("Maryam", "Khezrzadeh", email = "maryam.khezrzadeh@gmail.com", role = c("aut", "cre"))
+Description: Asana is a work tracking and project management tool. This package
+    provides tools for analyzing asana projects. The tools provide insights into
+    the work being managed in Asana and aims to answer questions like: what is an
+    individual or a team's velocity, etc.
+Depends:
+    R (>= 3.3.1)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
