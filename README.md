@@ -1,7 +1,8 @@
-## asanatools
-A package for analysing work data produced by [asana](https://www.asana.com): the work tracking and project management tool.
 
-__Author:__ Maryam Khezrzadeh<br/>
-__License:__ [MIT](http://opensource.org/licenses/MIT)<br/>
+-   [Asana R API](#asana-r-api)
 
-### Description
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+Asana R API
+-----------
+
+Access and manage [asana](https://www.asana.com) projects from R with `asanatools`.

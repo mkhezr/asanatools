@@ -1,0 +1,18 @@
+---
+output:
+  github_document:
+    toc: true
+    toc_depth: 3
+---
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE
+)
+```
+
+Asana R API
+---
+Access and manage [asana](https://www.asana.com) projects from R with `asanatools`.
+
